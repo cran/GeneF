@@ -1,15 +1,18 @@
 Package: GeneF
-Type: Package
-Title: Package for Generalized F-statistics
-Version: 1.0
-Date: 2007-07-18
-Author: Yinglei Lai <ylai@gwu.edu>
-Maintainer: Yinglei Lai <ylai@gwu.edu>
-Description: This package implements several generalized F-statistics.
-        The current version includes a generalized F-statistic based on
-        the flexible isotonic/monotonic regression or order restricted
-        hypothesis testing.
+Title: Package for Generalized F-Statistics
+Version: 1.0.1
+Authors@R: 
+    person("Yinglei", "Lai", , "ylai@gwu.edu", role = c("aut", "cre"))
+Description: Implementation of several generalized F-statistics. The
+    current version includes a generalized F-statistic based on the
+    flexible isotonic/monotonic regression or order restricted hypothesis
+    testing. Based on: Y. Lai (2011) <doi:10.1371/journal.pone.0019754>.
 License: GPL (>= 2)
-Packaged: 2012-10-29 08:57:07 UTC; ripley
+Encoding: UTF-8
+RoxygenNote: 7.0.0
+NeedsCompilation: no
+Packaged: 2022-05-09 10:57:46 UTC; mengqiuzhu
+Author: Yinglei Lai [aut, cre]
+Maintainer: Yinglei Lai <ylai@gwu.edu>
 Repository: CRAN
-Date/Publication: 2012-10-29 08:57:07
+Date/Publication: 2022-05-09 11:40:02 UTC

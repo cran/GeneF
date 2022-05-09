@@ -87,7 +87,8 @@ print(flexmonoreg.stat(y,x))
      lines(x, results$estimate, type="p", pch=15, col="black", cex=2.5)
 
      results <- flexisoreg(y, x, lambda=1, alpha.location=0.05, alpha.adjacency=0.05)
-     plot(x,y, main="Location and Strong Order Restrictions",cex.axis=1.5, cex.lab=1.5, cex.main=1.5, cex=1.5)
+     plot(x,y, main="Location and Strong Order Restrictions", 
+     cex.axis=1.5, cex.lab=1.5, cex.main=1.5, cex=1.5)
      lines(x, results$estimate, type="p", pch=15, col="black", cex=2.5)
 
      results <- flexisoreg(y, x, lambda=0, alpha.location=1, alpha.adjacency=0.95)

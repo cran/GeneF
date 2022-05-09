@@ -1,5 +1,5 @@
-740d5c450ff9b91c9641af7abe4f0082 *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+f1d3411bb68e853566781683e24c324a *DESCRIPTION
+bf3c93dd22346ace60af094e83630824 *NAMESPACE
 86064d81e304882a5d6c9c0336217f75 *R/flexisoreg.R
 8dd308528193bd66c19fba12eaf22e88 *R/flexisoreg.poolpvalues.R
 4ee5f5df1dc1313a12e734aaa67026a1 *R/flexisoreg.pvalue.R
@@ -12,6 +12,6 @@ eacf108b1e20514c2fa141c4edad18f8 *R/flexmonoreg.stat.R
 a83fe96c19987e0a576b80227a9fe25f *R/t1p1.R
 fd0fd960d791dafc5b1070cfaf4f9fe6 *R/t1p2.R
 11566a9856a4f175a1f81a1cb1cbeae3 *man/GeneF-internal.Rd
-8bfb2123e5f3f32e168caa3ff076c2c4 *man/GeneF-package.Rd
-012d8e2fff9aa8087c6518cc56f49abe *man/flexorhtest.Rd
+1236137360f7f486ca0135835fc4d80a *man/GeneF-package.Rd
+22ff4bd10ef7772dfc9f27b7652cdf81 *man/flexorhtest.Rd
 bec2ac5fb5f7a261fac1b9dff1b670a9 *man/flexorhtest.pvalue.Rd
